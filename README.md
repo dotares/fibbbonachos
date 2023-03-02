@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code because it's fun.
+I code because it's not fun.
 
 
 ## 🌐 Socials:
