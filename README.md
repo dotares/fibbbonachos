@@ -1,3 +1,3 @@
 # About me:
 
-I code because it's not fun.
+I hate coding. 
