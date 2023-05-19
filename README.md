@@ -1,1 +1,1 @@
-I hate coding. 
+Joining NASA or SpaceX will limit my potential.
