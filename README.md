@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/fibbbonachos" target="blank"><img src="https://img.shields.io/twitter/follow/fibbbonachos?logo=twitter&style=for-the-badge" alt="fibbbonachos" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://fibbonachos.vercel.app/](https://fibbonachos.vercel.app/)
-
 - 📝 I regularly write articles on [https://fibbonachos.hashnode.dev/](https://fibbonachos.hashnode.dev/)
 
 - 📫 How to reach me **arish2k3@gmail.com**
